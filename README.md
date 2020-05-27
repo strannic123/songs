@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Приложение на React + Redux. CSS подключены через semantic ui
+## Из некой базы песен можно получить детальные данные о самой песне. Проект сделан в рамках изучения взаимодействия React и Redux
+
+## ![scrin](https://i.imgur.com/bWn3hDa.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
